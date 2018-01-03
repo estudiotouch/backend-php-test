@@ -39,8 +39,7 @@ The performance and resources suitability will be considered during the evaluati
 
 ## Submission process
 
-The test should be pushed to GitHub. The application must be hosted (Heroku, Firebase, Pluker, etc) and the URLs should be sent by email.
-
+To apply, please email trabalhe@estudiotouch.com with your solution. Please, include the link of your code on Github. The application must be hosted (Heroku, Firebase, Pluker, etc) and the URLs should be sent by email. Also, explain why you would be a good fit for this job.
 
 Further questions should be sent and will be replied by email.
 
