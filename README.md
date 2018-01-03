@@ -32,9 +32,9 @@ The performance and resources suitability will be considered during the evaluati
 
 ## The APIs to be consumed are:
 
-User details: https://api.github.com/users/{username}
-User repositories: https://api.github.com/users/{username}/repos
-Repository details: https://api.github.com/repos/{full_name}
+ - User details: https://api.github.com/users/{username}
+ - User repositories: https://api.github.com/users/{username}/repos
+ - Repository details: https://api.github.com/repos/{full_name}
 
 
 ## Submission process
