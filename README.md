@@ -1,4 +1,4 @@
-# Touch / backEnd-test
+# Touch / BackEnd-test
 
 Develop an application which feeds GitHub API and shows the most popular repositories of the selected user. This application should work with the most recent browsers.
 
